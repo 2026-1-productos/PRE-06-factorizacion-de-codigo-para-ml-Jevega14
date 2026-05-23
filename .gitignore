@@ -1,6 +1,7 @@
 .DS_Store
 
-models/
+models/*
+!models/estimator.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
